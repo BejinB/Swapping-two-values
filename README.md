@@ -30,7 +30,7 @@ y=temp
 print("Swapped values are: {} {}".format(x,y))
 ```
 ##OUTPUT:
-#Program to swap two values.
+```#Program to swap two values.
 #Developed by: bejin
 #RegisterNumber: 22001908
 x=input()
@@ -39,6 +39,7 @@ temp=x
 x=y
 y=temp
 print("Swapped values are: {} {}".format(x,y))
+```
 ![image](https://user-images.githubusercontent.com/118367518/208676325-ab7323b9-34ba-43ed-91eb-fb4079da838e.png)
 ## RESULT:
 Thus the swapping of two values are successfully executed
